@@ -50,4 +50,4 @@ function ProductCard({
   );
 }
 
-export default ProductCard;
+export default ProductCard; 

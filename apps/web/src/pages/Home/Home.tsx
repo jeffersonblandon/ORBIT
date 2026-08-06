@@ -11,7 +11,13 @@ function Home() {
       <Benefits />
 
       <div className="wrap" style={{ padding: "60px 0" }}>
-        <ProductCard />
+        <ProductCard 
+  image="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=700"
+  category="Smartwatch"
+  title="Smartwatch Ultra X"
+  description="Pantalla AMOLED, llamadas Bluetooth y resistencia al agua."
+  price="$349.900"
+ />
       </div>
     </>
   );
